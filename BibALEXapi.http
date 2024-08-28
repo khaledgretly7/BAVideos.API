@@ -1,0 +1,6 @@
+@BibALEXapi_HostAddress = http://localhost:5157
+
+GET {{BibALEXapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
